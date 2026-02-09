@@ -6,6 +6,7 @@ db_config = {
     'host': 'mydatabase.com',
     'user': 'admin',
     'password': 'secret123'
+    'ip': "00.00.0.0.0"
 }
 
 def get_user_input():
